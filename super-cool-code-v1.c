@@ -14,4 +14,3 @@ task main()
 }
 
   Sparta
-  
